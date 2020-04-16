@@ -12,7 +12,10 @@
 npm install
 ```
 
-### Compila e roda o projeto com hot-reload
+## Compila e roda o projeto com hot-reload
 ```
 npm run serve
 ```
+
+### Observações
+O projeto está configurado para acessar a api em https://localhost:5001/api
