@@ -1,19 +1,18 @@
-# agenda-frontend
+# Agenda Frontend
 
-## Project setup
+## Bibliotecas Utilizadas
+- VueJs(https://vuejs.org/)
+- Vuetify(https://vuetifyjs.com/en/)
+- Axios(https://github.com/axios/axios)
+- Vue-axios(https://www.npmjs.com/package/vue-axios)
+- vue-ctk-date-time-picker(https://github.com/chronotruck/vue-ctk-date-time-picker)
+
+## Passos para executar o projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compila e roda o projeto com hot-reload
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
